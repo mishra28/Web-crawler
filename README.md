@@ -1,6 +1,6 @@
 # Test_Assingment
 
-Spider is created under assignment file in backend.py file and all the full fledged working code of the crawler is stored there which has crawled multiple pages of flipkart.com/books and stored the extracted data into sqlite database.
+Spider is created under assignment folder in backend.py file and all the full fledged working code of the crawler is stored there which has crawled multiple pages of flipkart.com/books and stored the extracted data into sqlite database.
 
 An items.py file is created which is used to store the extracted information of various books in various items containers.
 

@@ -1,4 +1,4 @@
-# Test_Assingment
+# About The Project
 
 Spider is created under assignment folder in backend.py file and all the full fledged working code of the crawler is stored there which has crawled multiple pages of flipkart.com/books and stored the extracted data into sqlite database.
 
